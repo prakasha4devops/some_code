@@ -6,4 +6,4 @@ echo "$NUMBER"
 echo "-------------"
 echo "This was added"
 echo "-------------"
-echo '##############'
+
